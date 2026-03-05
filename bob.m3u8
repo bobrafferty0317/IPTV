@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox-news.png" group-title="02. USA CABLE  TV #1",FOX NEWS
+http://bgdc.live:25461/rodneyd7801/7801/10397
+#EXTINF:-1 tvg-id="" tvg-name="USA |NH| ABC 9 WMUR Manchester" tvg-logo="" group-title="18. LOCALS -ABC, CBS, NBC, FOX",USA |NH| ABC 9 WMUR Manchester
+http://bgdc.live:25461/rodneyd7801/7801/189924
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="02. USA CABLE  TV #1",DISCOVERY
+http://bgdc.live:25461/rodneyd7801/7801/10388
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FoodNetLogo.png" group-title="02. USA CABLE  TV #1",FOOD NETWORK
+http://bgdc.live:25461/rodneyd7801/7801/10393
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="HALLMARK CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Channel.png" group-title="02. USA CABLE  TV #1",HALLMARK CHANNEL
+http://bgdc.live:25461/rodneyd7801/7801/10407
+#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="HALLMARK FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/halldrama.png" group-title="02. USA CABLE  TV #1",HALLMARK FAMILY
+http://bgdc.live:25461/rodneyd7801/7801/10408
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK MYSTERIES" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Movies_26_Mysteries_28Gold29.png" group-title="02. USA CABLE  TV #1",HALLMARK MYSTERIES
+http://bgdc.live:25461/rodneyd7801/7801/10409
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Home_26_Garden_Television.png" group-title="02. USA CABLE  TV #1",HGTV
+http://bgdc.live:25461/rodneyd7801/7801/10411
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="02. USA CABLE  TV #1",HISTORY
+http://bgdc.live:25461/rodneyd7801/7801/10412
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="I.D DISCOVERY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ID-2020.png" group-title="02. USA CABLE  TV #1",I.D DISCOVERY
+http://bgdc.live:25461/rodneyd7801/7801/10417
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NAT GEO WILD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/National_Geographic_Wild_2018.png" group-title="02. USA CABLE  TV #1",NAT GEO WILD
+http://bgdc.live:25461/rodneyd7801/7801/10428
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/National_Geographic_2008.png" group-title="02. USA CABLE  TV #1",NATIONAL GEOGRAPHIC
+http://bgdc.live:25461/rodneyd7801/7801/10429
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="TRU TV " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TruTV_2014.png" group-title="02. USA CABLE  TV #1",TRU TV 
+http://bgdc.live:25461/rodneyd7801/7801/10453
